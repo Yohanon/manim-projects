@@ -1,0 +1,15 @@
+# Manim rendered videos, images, and Tex caches
+media/
+videos/
+images/
+Tex/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor & OS swap files
+*.swp
+*~
